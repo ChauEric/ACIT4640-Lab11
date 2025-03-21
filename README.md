@@ -15,3 +15,5 @@ ansible-playbook playbook.yml
 ```
 
 Get good at AWS otherwise you'll spend 10-15 minutes debugging.
+
+![alt text](Lab11_success.png)
